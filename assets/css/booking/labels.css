@@ -1,0 +1,190 @@
+﻿label#Activation_code_L {
+	z-index:1;
+	
+	position:relative;
+	top:38px;
+	left:67px;
+
+	font-size:large;
+	
+	text-shadow: 1px 2px black;
+	
+}
+
+label#Activation_code_L:hover {
+	
+	
+	cursor:pointer;
+
+}
+
+
+label#Check_availability_L {
+	z-index:1;
+	
+	position:relative;
+	top:60px;
+	left:55px;
+	font-size:large;
+	
+	text-shadow: 1px 2px black;
+
+
+}
+
+label#Check_availability_L:hover {
+	
+	cursor:pointer;
+
+}
+
+label#Terms_L {
+	position:relative;
+	left:115px;
+	top:35px;
+	font-size:large;
+	
+	text-shadow: 1px 2px black;
+
+}
+
+
+label#Terms_L:hover {
+	
+	cursor:pointer;
+
+}
+
+
+label#Help_L {
+	position:relative;
+	left:120px;
+	top:45px;
+	font-size:large;
+	
+	text-shadow: 1px 2px black;
+
+}
+
+label#Help_L:hover {
+	
+	cursor:pointer;
+
+}
+
+
+label#Book_Now_L{
+	
+	font-size:small;
+	
+	
+
+}
+
+label#Check_L{
+	
+	font-size:small;
+	
+
+}
+
+label#Book_Now_L:hover{
+	
+	cursor:pointer;
+
+}
+
+
+label#Check_L:hover{
+	
+	cursor:pointer;
+
+}
+
+
+
+
+lable#checklabel{
+	
+	 
+    height: 25px;
+    text-align:right;
+
+	display:inline;
+	margin-bottom:0px;
+	cursor: default;
+
+}
+
+
+
+
+
+
+
+
+
+label.Tree_Steps_L1 {
+	position:relative;
+	left:10px;	
+	top:5px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	cursor: default;
+    font-size:x-large;
+    font-weight: normal;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    color: white;
+    display:inline;
+    text-shadow: 1px 1px #333333;
+
+	margin-bottom:0px;
+}
+
+label.Tree_Steps_L2 {
+	
+	position:relative;
+	left:15px;
+	top:5px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+
+    font-size:small;
+    font-weight: normal;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    color: white;
+    
+    text-shadow: 1px 1px #333333;
+
+	display:inline;
+	margin-bottom:0px;
+	cursor: default;
+}
+
+
+
+
+
+label#First_Step_L {
+	position:relative;
+	left:180px;
+	top:4px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+
+    font-size:large;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: white;
+    
+    text-shadow: 1px 1px #333333;
+	
+	
+}
+
+
+
+

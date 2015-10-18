@@ -1,0 +1,296 @@
+﻿table#checktable {
+	position:relative;
+	left:5px;
+	top:30px;
+	display:none;
+}
+
+table#Confirmation_Div{
+	position:relative;
+	left:90px;
+	top:15px;
+	display:none;
+}
+
+
+table#show_rooms_T1 {
+	
+	width:100%;
+	
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#336699), to(#003366));
+	background: -webkit-linear-gradient(top, #336699, #003366);
+	background: -moz-linear-gradient(top,  #336699, #003366);
+  	background: -o-linear-gradient(top, #336699, #003366);
+	background: -ms-linear-gradient(top, #336699, #003366);
+	
+	border: 1px solid #336699;
+	border-radius: 5px; 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    
+   
+
+	box-shadow: 2px 4px 3px #888888;
+	
+	
+
+}
+
+table#Reservation_Details_T1 {
+	
+	width:100%;
+	
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#336699), to(#003366));
+	background: -webkit-linear-gradient(top, #336699, #003366);
+	background: -moz-linear-gradient(top,  #336699, #003366);
+  	background: -o-linear-gradient(top, #336699, #003366);
+	background: -ms-linear-gradient(top, #336699, #003366);
+	
+	border: 1px solid #336699;
+	border-radius: 5px; 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    
+   
+
+	box-shadow: 2px 4px 3px #888888;
+	
+	
+
+}
+
+
+table#Terms_T1 {
+	
+	width:100%;
+	
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#222222), to(#505050));
+	background: -webkit-linear-gradient(top, #222222, #505050);
+	background: -moz-linear-gradient(top,  #222222, #505050);
+  	background: -o-linear-gradient(top, #222222, #505050);
+	background: -ms-linear-gradient(top, #222222, #505050);
+
+	
+	border: 1px solid #222222;
+	border-radius: 5px; 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    
+   	
+   	
+
+	box-shadow: 2px 4px 3px #888888;
+	
+	
+
+}
+
+table#Terms_T1 tr {
+	
+  	width:100%; 
+  	height:50px;
+  	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+
+    font-size: large;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+     
+    
+    color: white;
+    
+    text-shadow: 1px 2px black;
+}
+
+table#Reservation_Details_T1 tr {
+	
+  	width:100%; 
+  	height:50px;
+  	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+
+    font-size: large;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+        
+    color: white;
+    
+    text-shadow: 1px 2px black;
+}
+
+table#Terms_T2{
+	width:100%;
+}
+
+tr#Terms_TR_1 {
+	
+  	width:100%; 
+  	
+  	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  	text-align:center;
+  	font-size: medium;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+
+ 	
+}
+
+tr#Terms_TR_2 {
+	
+  	width:100%; 
+  	
+  	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  	text-align:justify;
+  	font-size: small;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+
+}
+
+
+
+
+
+
+
+
+table#show_rooms_T1 tr {
+	
+  	width:100%; 
+  	height:50px;
+  	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    font-size: small;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    
+    
+    
+    color: white;
+    
+    text-shadow: 1px 2px black;
+
+    
+    
+}
+
+
+
+table#show_rooms_T2 tr {
+	
+  	width:100%;
+  	height:150px;
+	
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  	font-size: small;
+  	font-weight: normal;
+  	font-style: normal; 
+  	font-variant: normal;
+  	text-transform: none; 
+  	
+    color: black;
+    
+    }
+    
+
+    
+td#show_rooms_TD_P{
+	vertical-align:top;
+    width:110px;
+
+	
+}
+
+td#show_rooms_TD_D{
+	vertical-align:top;
+    text-align:justify;
+	width:240px;
+}
+
+td#show_rooms_TD_Ph{
+
+    
+	
+}
+
+td#show_rooms_TD_C{
+	text-align:center;
+
+    width:50px;
+
+    	
+}
+
+td#show_rooms_TD_B{
+	 
+	 text-align:center;
+  
+
+	
+}
+
+
+
+table#show_rooms_TP {
+	width:100%;
+   	position:relative;
+  	top:0px;
+    color: black;
+    
+    
+    }
+    
+        
+table#show_rooms_TP tr {
+  		
+   	height:20px;
+    color: black;
+    font-size:x-small;
+    
+    }
+    
+    
+td#button_TD{
+   
+    height: 20px;
+    
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#505050), to(#222222));
+	background: -webkit-linear-gradient(top, #505050, #222222);
+	background: -moz-linear-gradient(top,  #505050, #222222);
+  	background: -o-linear-gradient(top, #505050, #222222);
+	background: -ms-linear-gradient(top, #505050, #222222);
+
+		
+	border: 1px solid #222222;
+	border-radius: 5px; 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+
+}
+
+
+td#button_TD:hover{
+	
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#222222), to(#505050));
+	background: -webkit-linear-gradient(top, #222222, #505050);
+	background: -moz-linear-gradient(top,  #222222, #505050);
+  	background: -o-linear-gradient(top, #222222, #505050);
+	background: -ms-linear-gradient(top, #222222, #505050);
+
+	
+    cursor:pointer;
+    
+    
+
+ }
+ 
